@@ -2,7 +2,7 @@ Issue tracker is **ONLY** used for reporting bugs. New features should be discus
 
 <!--- Provide a general summary of the issue in the Title above -->
 
-## Expected Behavior
+## Oczekiwane zachowanie
 <!--- Tell us what should happen -->
 
 ## Current Behavior
