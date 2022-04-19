@@ -1,1 +1,3 @@
-# cwiczenia
+# Readme
+
+todo adresy itd
